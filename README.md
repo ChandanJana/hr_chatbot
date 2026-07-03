@@ -304,7 +304,6 @@ You have:
 
 ```
 documents
-  ├── Gamut - Policy.pdf
   ├── Leave-Policy.pdf
   ├── Remote Working Policy.pdf
   ├── leave_policy_detailed.txt
